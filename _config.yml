@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            atubo's blog
+tagline:          'code and stuff'
+description:      'Work hard, play hard'
+url:              http://atubo.github.io
+baseurl:          /
+
+author:
+  name:           'atubo'
+
+paginate:         5
+
+#Custom vars
+version:          1
+
+github:
+  repo:           https://github.com/atubo
